@@ -5,11 +5,11 @@ Geliştirilecek bir insan kaynakları bilgi sistemi kapsamında, iş başvurusu 
  
 Eleman arayan şirketler de iş başvurusu yapan kişileri listeleyebilecek, belli kriterlere göre filtreleme işlemleri yapabileceklerdir.  
  
-Bu bilgilere göre aşağıdaki işlemleri yapan 2 parçalı c programını yazınız: 
+Bu bilgilere göre aşağıdaki işlemleri yapan 2 parçalı c programını yazdık: 
  
 1. İş Başvurusu Yapan Kişilerin Kullanacağı Bölüm • Sisteme kayıt (kendi kişisel bilgilerini girme) • Sistemdeki bilgilerini görüntüleme • Sistemden çıkma (bilgilerini silme) • Sistemdeki bilgilerini güncelleme 
  
 2. Eleman Arayan Şirketin Kullanacağı Bölüm • İkili arama ağacındaki tüm kişilerin adlarını düzeyleri ile birlikte Listeleme (Inorder, preorder, postorder). Ağacın derinliğini ve eleman sayısını yazdırma.   • İşe başvuran tüm adayların bilgilerini listeleme • Adından kişi arama, tüm bilgilerini listeleme • En az lisans mezunu olan kişilerin listelenmesi • İngilizce bilen kişilerin adlarının listelenmesi.  • Birden fazla dil bilen kişilerin listelenmesi (TR hariç) • Girilecek olan minumum deneyim süresine göre başvuru listeleme (örneğin 5 yıl) • Deneyimsiz kişilerin listelenmesi • Girilecek olan yaş değeri altındaki kişilerin listelenmesi • Belirli tip ehliyeti olan kişilerin listelenmesi • Yukarıdaki filtrelerin çoklu halde uygulanabilmesi • Filtrelenen kişilerin istendiği takdirde ayrı bilgilerinin, anlaşılır halde, ayrı bir dosyaya yazdırılması. 
  
  
-Not : Program kısıtları  • İş başvurusu yapan kişilerin bilgileri kaydedilmelidir. • Kayıtlı verilerin okunması sırasında, programın içerisinde dizi kullanılmamalıdır. • İhtiyaçları karşılayacak dosyalama yapısının tasarımı size bırakılmıştır. Raporda verileri nasıl depoladığınız, örnek verileri üzerinden anlatmalısınız.  • Kişilerin hatalı veri girişleri engellenmelidir.
+Not : Program kısıtları  • İş başvurusu yapan kişilerin bilgileri kaydedilmelidir. • Kayıtlı verilerin okunması sırasında, programın içerisinde dizi kullanılmamalıdır.  • Kişilerin hatalı veri girişleri engellenmelidir.
